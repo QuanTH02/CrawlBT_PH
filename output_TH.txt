@@ -1,0 +1,2719 @@
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    1
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy điền số thích hợp vào ô trống.
+     <br/>
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="1 = \dfrac{{16}}{{\;...\;}}" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            1
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space3">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+            =
+           </span>
+          </span>
+          <span class="mjx-mstyle MJXc-space3">
+           <span class="mjx-mrow">
+            <span class="mjx-mfrac">
+             <span class="mjx-box MJXc-stacked" style="width: 1.923em; padding: 0px 0.12em;">
+              <span class="mjx-numerator" style="width: 1.923em; top: -1.368em;">
+               <span class="mjx-texatom">
+                <span class="mjx-mrow">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   16
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+              <span class="mjx-denominator" style="width: 1.923em; bottom: -0.711em;">
+               <span class="mjx-texatom">
+                <span class="mjx-mrow">
+                 <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+                 </span>
+                 <span class="mjx-mo">
+                  <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.144em; padding-bottom: 0.372em;">
+                   .
+                  </span>
+                 </span>
+                 <span class="mjx-mo MJXc-space1">
+                  <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.144em; padding-bottom: 0.372em;">
+                   .
+                  </span>
+                 </span>
+                 <span class="mjx-mo MJXc-space1">
+                  <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.144em; padding-bottom: 0.372em;">
+                   .
+                  </span>
+                 </span>
+                 <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+                 </span>
+                </span>
+               </span>
+              </span>
+              <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.923em;">
+              </span>
+             </span>
+             <span class="mjx-vsize" style="height: 2.078em; vertical-align: -0.711em;">
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     <br/>
+     Số cần điền vào dấu ba chấm là: [[16]].
+     <br/>
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Số
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       có thể viết thành phân số có tử số và mẫu số bằng nhau và khác
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Số
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       có thể viết thành phân số có tử số và mẫu số cùng bằng
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="16" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              16
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1 = \dfrac{{16}}{{\;16\;}}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 1.756em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 1.756em; top: -1.368em;">
+                 <span class="mjx-texatom">
+                  <span class="mjx-mrow">
+                   <span class="mjx-mn">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     16
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 1.756em; bottom: -0.778em;">
+                 <span class="mjx-texatom">
+                  <span class="mjx-mrow">
+                   <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+                   </span>
+                   <span class="mjx-mn">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     16
+                    </span>
+                   </span>
+                   <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.756em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.146em; vertical-align: -0.778em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       Vậy số cần điền vào dấu ba chấm là
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="16" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              16
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="16" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              16
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    2
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án đúng.
+     <br/>
+     Số
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="0" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            0
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     có thể viết được dưới dạng phân số nào dưới đây?
+     <br/>
+    </p>
+   </div>
+   A. 22
+   B. 14
+   C. 32
+   <div>
+    <u>
+     D.
+    </u>
+    02
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Số
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       có thể được viết thành phân số có tử số là
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       và mẫu số khác
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Vì số
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       có thể được viết thành phân số có tử số là
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       và mẫu số khác
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nên trong các phân số đã cho, phân số đúng là
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="\dfrac{0}{2}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mstyle">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 0.7em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   0
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 0.7em; bottom: -0.756em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   2
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.124em; vertical-align: -0.756em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="\dfrac{0}{2}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mstyle">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 0.7em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   0
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 0.7em; bottom: -0.756em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   2
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.124em; vertical-align: -0.756em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    3
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án thích hợp để điền vào ô trống.
+     <br/>
+     <span class="math-tex" style="font-size: 18px;;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="\dfrac{{28}}{{36}} = \dfrac{{28:a}}{{36:4}} = \dfrac{7}{b}" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mstyle">
+           <span class="mjx-mrow">
+            <span class="mjx-mfrac">
+             <span class="mjx-box MJXc-stacked" style="width: 1.2em; padding: 0px 0.12em;">
+              <span class="mjx-numerator" style="width: 1.2em; top: -1.368em;">
+               <span class="mjx-texatom">
+                <span class="mjx-mrow">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   28
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+              <span class="mjx-denominator" style="width: 1.2em; bottom: -0.778em;">
+               <span class="mjx-texatom">
+                <span class="mjx-mrow">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   36
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+              <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.2em;">
+              </span>
+             </span>
+             <span class="mjx-vsize" style="height: 2.146em; vertical-align: -0.778em;">
+             </span>
+            </span>
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space3">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+            =
+           </span>
+          </span>
+          <span class="mjx-mstyle MJXc-space3">
+           <span class="mjx-mrow">
+            <span class="mjx-mfrac">
+             <span class="mjx-box MJXc-stacked" style="width: 2.563em; padding: 0px 0.12em;">
+              <span class="mjx-numerator" style="width: 2.563em; top: -1.368em;">
+               <span class="mjx-texatom">
+                <span class="mjx-mrow">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   28
+                  </span>
+                 </span>
+                 <span class="mjx-mo MJXc-space3">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.151em; padding-bottom: 0.372em;">
+                   :
+                  </span>
+                 </span>
+                 <span class="mjx-mi MJXc-space3">
+                  <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+                   a
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+              <span class="mjx-denominator" style="width: 2.563em; bottom: -0.789em;">
+               <span class="mjx-texatom">
+                <span class="mjx-mrow">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   36
+                  </span>
+                 </span>
+                 <span class="mjx-mo MJXc-space3">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.151em; padding-bottom: 0.372em;">
+                   :
+                  </span>
+                 </span>
+                 <span class="mjx-mn MJXc-space3">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   4
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+              <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 2.563em;">
+              </span>
+             </span>
+             <span class="mjx-vsize" style="height: 2.157em; vertical-align: -0.789em;">
+             </span>
+            </span>
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space3">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+            =
+           </span>
+          </span>
+          <span class="mjx-mstyle MJXc-space3">
+           <span class="mjx-mrow">
+            <span class="mjx-mfrac">
+             <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+              <span class="mjx-numerator" style="width: 0.7em; top: -1.378em;">
+               <span class="mjx-mn">
+                <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                 7
+                </span>
+               </span>
+              </span>
+              <span class="mjx-denominator" style="width: 0.7em; bottom: -0.795em;">
+               <span class="mjx-mi">
+                <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.446em; padding-bottom: 0.298em;">
+                 b
+                </span>
+               </span>
+              </span>
+              <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+              </span>
+             </span>
+             <span class="mjx-vsize" style="height: 2.173em; vertical-align: -0.795em;">
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     <br/>
+     (
+     <span class="math-tex">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="a" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mi">
+           <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+            a
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     và
+     <span class="math-tex">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="b" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mi">
+           <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.446em; padding-bottom: 0.298em;">
+            b
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     là các số tự nhiên)
+     <br/>
+     Khi đó, kết quả của phép tính
+     <span class="math-tex" style="font-size: 18px;;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="a \times b" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mi">
+           <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+            a
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+            ×
+           </span>
+          </span>
+          <span class="mjx-mi MJXc-space2">
+           <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.446em; padding-bottom: 0.298em;">
+            b
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     là [[36]].
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Chia hết cả tử số và mẫu số của một phân số với cùng một số tự nhiên khác
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       thì được một phân số bằng phân số đã cho.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="\dfrac{{28}}{{36}} = \dfrac{{28:4}}{{36:4}} = \dfrac{7}{9}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mstyle">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 1.2em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 1.2em; top: -1.368em;">
+                 <span class="mjx-texatom">
+                  <span class="mjx-mrow">
+                   <span class="mjx-mn">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     28
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 1.2em; bottom: -0.778em;">
+                 <span class="mjx-texatom">
+                  <span class="mjx-mrow">
+                   <span class="mjx-mn">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     36
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.2em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.146em; vertical-align: -0.778em;">
+               </span>
+              </span>
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 2.534em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 2.534em; top: -1.379em;">
+                 <span class="mjx-texatom">
+                  <span class="mjx-mrow">
+                   <span class="mjx-mn">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     28
+                    </span>
+                   </span>
+                   <span class="mjx-mo MJXc-space3">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.151em; padding-bottom: 0.372em;">
+                     :
+                    </span>
+                   </span>
+                   <span class="mjx-mn MJXc-space3">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     4
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 2.534em; bottom: -0.789em;">
+                 <span class="mjx-texatom">
+                  <span class="mjx-mrow">
+                   <span class="mjx-mn">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     36
+                    </span>
+                   </span>
+                   <span class="mjx-mo MJXc-space3">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.151em; padding-bottom: 0.372em;">
+                     :
+                    </span>
+                   </span>
+                   <span class="mjx-mn MJXc-space3">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     4
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 2.534em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.168em; vertical-align: -0.789em;">
+               </span>
+              </span>
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 0.7em; top: -1.378em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   7
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 0.7em; bottom: -0.778em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   9
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.156em; vertical-align: -0.778em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       Do đó,
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="a = 4;\;b = 9" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mi">
+             <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+              a
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+            <span class="mjx-mo">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.151em; padding-bottom: 0.519em;">
+              ;
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+            </span>
+            <span class="mjx-mi MJXc-space1">
+             <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.446em; padding-bottom: 0.298em;">
+              b
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              9
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       Ta có:
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="a \times b = 4 \times 9 = 36" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mi">
+             <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+              a
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+              ×
+             </span>
+            </span>
+            <span class="mjx-mi MJXc-space2">
+             <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.446em; padding-bottom: 0.298em;">
+              b
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+              ×
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              9
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              36
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="36" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              36
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    4
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án đúng.
+     <br/>
+     Có
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="4" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            4
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     lít nước đổ đều vào
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="5" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            5
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     chai. Hỏi mỗi chai chứa mấy phần lít nước?
+     <br/>
+    </p>
+   </div>
+   <div>
+    <u>
+     A.
+    </u>
+    45 lít
+   </div>
+   B. 54 lít
+   C. 4 lít
+   D. 14 lít
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    5
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án thích hợp để điền vào ô trống.
+     <br/>
+     Số
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="11" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            11
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     có thể viết được dưới dạng phân số là: [[111]].
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Mọi số tự nhiên đều có thể viết thành phân số cõ mẫu số là
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Số
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="11" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              11
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       có thể viết được dưới dạng phân số với mẫu số là
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="11= \dfrac{11}{1}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              11
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 1.2em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 1.2em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   11
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 1.2em; bottom: -0.756em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   1
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.2em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.124em; vertical-align: -0.756em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="\dfrac{11}{1}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mstyle">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 1.2em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 1.2em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   11
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 1.2em; bottom: -0.756em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   1
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.2em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.124em; vertical-align: -0.756em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    6
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án thích hợp để điền vào ô trống.
+     <br/>
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="\dfrac{5}{6} = \dfrac{{5 \times 4}}{{6 \times a}} = \dfrac{b}{{24}}" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mstyle">
+           <span class="mjx-mrow">
+            <span class="mjx-mfrac">
+             <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+              <span class="mjx-numerator" style="width: 0.7em; top: -1.368em;">
+               <span class="mjx-mn">
+                <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                 5
+                </span>
+               </span>
+              </span>
+              <span class="mjx-denominator" style="width: 0.7em; bottom: -0.778em;">
+               <span class="mjx-mn">
+                <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                 6
+                </span>
+               </span>
+              </span>
+              <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+              </span>
+             </span>
+             <span class="mjx-vsize" style="height: 2.146em; vertical-align: -0.778em;">
+             </span>
+            </span>
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space3">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+            =
+           </span>
+          </span>
+          <span class="mjx-mstyle MJXc-space3">
+           <span class="mjx-mrow">
+            <span class="mjx-mfrac">
+             <span class="mjx-box MJXc-stacked" style="width: 2.451em; padding: 0px 0.12em;">
+              <span class="mjx-numerator" style="width: 2.451em; top: -1.379em;">
+               <span class="mjx-texatom">
+                <span class="mjx-mrow">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   5
+                  </span>
+                 </span>
+                 <span class="mjx-mo MJXc-space2">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+                   ×
+                  </span>
+                 </span>
+                 <span class="mjx-mn MJXc-space2">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   4
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+              <span class="mjx-denominator" style="width: 2.451em; bottom: -0.778em;">
+               <span class="mjx-texatom">
+                <span class="mjx-mrow">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   6
+                  </span>
+                 </span>
+                 <span class="mjx-mo MJXc-space2">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+                   ×
+                  </span>
+                 </span>
+                 <span class="mjx-mi MJXc-space2">
+                  <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+                   a
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+              <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 2.451em;">
+              </span>
+             </span>
+             <span class="mjx-vsize" style="height: 2.157em; vertical-align: -0.778em;">
+             </span>
+            </span>
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space3">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+            =
+           </span>
+          </span>
+          <span class="mjx-mstyle MJXc-space3">
+           <span class="mjx-mrow">
+            <span class="mjx-mfrac">
+             <span class="mjx-box MJXc-stacked" style="width: 1.2em; padding: 0px 0.12em;">
+              <span class="mjx-numerator" style="width: 1.2em; top: -1.396em;">
+               <span class="mjx-mi">
+                <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.446em; padding-bottom: 0.298em;">
+                 b
+                </span>
+               </span>
+              </span>
+              <span class="mjx-denominator" style="width: 1.2em; bottom: -0.767em;">
+               <span class="mjx-texatom">
+                <span class="mjx-mrow">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   24
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+              <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.2em;">
+              </span>
+             </span>
+             <span class="mjx-vsize" style="height: 2.163em; vertical-align: -0.767em;">
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     <br/>
+     Khi đó,
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="a + b" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mi">
+           <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+            a
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mi MJXc-space2">
+           <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.446em; padding-bottom: 0.298em;">
+            b
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[&lt;]]
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="25" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            25
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     .
+     <br/>
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Nếu ta nhân cả tử số và mẫu số của một phân số với cùng một số tự nhiên khác
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       thì được một phân số bằng phân số đã cho.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Ta có:
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="\dfrac{5}{6} = \dfrac{{5 \times 4}}{{6 \times 4}} = \dfrac{{20}}{{24}}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mstyle">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 0.7em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   5
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 0.7em; bottom: -0.778em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   6
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.146em; vertical-align: -0.778em;">
+               </span>
+              </span>
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 2.422em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 2.422em; top: -1.379em;">
+                 <span class="mjx-texatom">
+                  <span class="mjx-mrow">
+                   <span class="mjx-mn">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     5
+                    </span>
+                   </span>
+                   <span class="mjx-mo MJXc-space2">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+                     ×
+                    </span>
+                   </span>
+                   <span class="mjx-mn MJXc-space2">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     4
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 2.422em; bottom: -0.789em;">
+                 <span class="mjx-texatom">
+                  <span class="mjx-mrow">
+                   <span class="mjx-mn">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     6
+                    </span>
+                   </span>
+                   <span class="mjx-mo MJXc-space2">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+                     ×
+                    </span>
+                   </span>
+                   <span class="mjx-mn MJXc-space2">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     4
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 2.422em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.168em; vertical-align: -0.789em;">
+               </span>
+              </span>
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 1.2em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 1.2em; top: -1.368em;">
+                 <span class="mjx-texatom">
+                  <span class="mjx-mrow">
+                   <span class="mjx-mn">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     20
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 1.2em; bottom: -0.767em;">
+                 <span class="mjx-texatom">
+                  <span class="mjx-mrow">
+                   <span class="mjx-mn">
+                    <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                     24
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.2em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.135em; vertical-align: -0.767em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       Do đó,
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="a = 4;\;b = 20" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mi">
+             <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+              a
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+            <span class="mjx-mo">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.151em; padding-bottom: 0.519em;">
+              ;
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+            </span>
+            <span class="mjx-mi MJXc-space1">
+             <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.446em; padding-bottom: 0.298em;">
+              b
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              20
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nên
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="a + b = 4 + 20 = 24" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mi">
+             <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+              a
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+              +
+             </span>
+            </span>
+            <span class="mjx-mi MJXc-space2">
+             <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.446em; padding-bottom: 0.298em;">
+              b
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+              +
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              20
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              24
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       Mà
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="24 &lt; 25" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              24
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.372em;">
+              &lt;
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              25
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nên
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="a + b &lt; 25" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mi">
+             <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+              a
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+              +
+             </span>
+            </span>
+            <span class="mjx-mi MJXc-space2">
+             <span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.446em; padding-bottom: 0.298em;">
+              b
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.372em;">
+              &lt;
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              25
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label=" &lt; " class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mo">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.372em;">
+              &lt;
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    7
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Chọn đáp án đúng:
+     <br/>
+     Quy đồng hai phân số
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="\dfrac{2}{3} " class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mstyle">
+           <span class="mjx-mrow">
+            <span class="mjx-mfrac">
+             <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+              <span class="mjx-numerator" style="width: 0.7em; top: -1.368em;">
+               <span class="mjx-mn">
+                <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                 2
+                </span>
+               </span>
+              </span>
+              <span class="mjx-denominator" style="width: 0.7em; bottom: -0.777em;">
+               <span class="mjx-mn">
+                <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                 3
+                </span>
+               </span>
+              </span>
+              <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+              </span>
+             </span>
+             <span class="mjx-vsize" style="height: 2.145em; vertical-align: -0.777em;">
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     và
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="\dfrac{3}{5} " class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mstyle">
+           <span class="mjx-mrow">
+            <span class="mjx-mfrac">
+             <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+              <span class="mjx-numerator" style="width: 0.7em; top: -1.367em;">
+               <span class="mjx-mn">
+                <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                 3
+                </span>
+               </span>
+              </span>
+              <span class="mjx-denominator" style="width: 0.7em; bottom: -0.778em;">
+               <span class="mjx-mn">
+                <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                 5
+                </span>
+               </span>
+              </span>
+              <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+              </span>
+             </span>
+             <span class="mjx-vsize" style="height: 2.145em; vertical-align: -0.778em;">
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     ta được:
+    </p>
+   </div>
+   <div>
+    <u>
+     A.
+    </u>
+    1015 và 915
+   </div>
+   B. 615 và 915
+   C. 615 và 1015
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    8
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Điền số thích hợp vào chỗ trống:
+     <br/>
+     #[30/48]=[30:[[6]]/48:6]=[5/[[8]]]#
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       Ta có:
+       <br/>
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="\dfrac{30}{48} =\dfrac{30:6}{48:6}=\dfrac{5}{8}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mstyle">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 1.2em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 1.2em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   30
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 1.2em; bottom: -0.789em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   48
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.2em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.157em; vertical-align: -0.789em;">
+               </span>
+              </span>
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 2.534em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 2.534em; top: -1.368em;">
+                 <span class="mjx-mrow">
+                  <span class="mjx-mn">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                    30
+                   </span>
+                  </span>
+                  <span class="mjx-mo MJXc-space3">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.151em; padding-bottom: 0.372em;">
+                    :
+                   </span>
+                  </span>
+                  <span class="mjx-mn MJXc-space3">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                    6
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 2.534em; bottom: -0.789em;">
+                 <span class="mjx-mrow">
+                  <span class="mjx-mn">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                    48
+                   </span>
+                  </span>
+                  <span class="mjx-mo MJXc-space3">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.151em; padding-bottom: 0.372em;">
+                    :
+                   </span>
+                  </span>
+                  <span class="mjx-mn MJXc-space3">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                    6
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 2.534em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.157em; vertical-align: -0.789em;">
+               </span>
+              </span>
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 0.7em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   5
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 0.7em; bottom: -0.778em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   8
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.146em; vertical-align: -0.778em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       Vậy ô trống thứ nhất ta điền số
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="6" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              6
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       Ô trống thứ hai ta điền số
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="8 " class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              8
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    9
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Chọn đáp án đúng:
+     <br/>
+     Giang làm xong công việc được giao trong
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="7 " class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            7
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     giờ. Hỏi một giờ, Giang làm được bao nhiêu phần công việc đó?
+    </p>
+   </div>
+   <div>
+    <u>
+     A.
+    </u>
+    17
+   </div>
+   B. 1
+   C. 7
+   D. 71
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 0:
+      </strong>
+      <span>
+       <p>
+       </p>
+       Giang làm xong công việc được giao trong
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="7 " class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              7
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       giờ.
+       <br/>
+       Vậy một giờ Giang làm được
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="\dfrac{1}{7} " class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mstyle">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 0.7em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   1
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 0.7em; bottom: -0.788em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   7
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.156em; vertical-align: -0.788em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       công việc.
+       <br/>
+       Đáp án:
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="\dfrac{1}{7}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mstyle">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 0.7em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   1
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 0.7em; bottom: -0.788em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   7
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.156em; vertical-align: -0.788em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    10
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Điền số thích hợp vào chỗ trống:
+     <br/>
+     Mọi số tự nhiên đều có thể viết thành phân số có mẫu số là [[1]]
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       Mọi số tự nhiên đều có thể viết thành phân số có mẫu số là
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1 " class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       Ví dụ:
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="5= \dfrac{5}{1}; \ 2023= \dfrac{2023}{1}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              5
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 0.7em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 0.7em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   5
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 0.7em; bottom: -0.756em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   1
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 0.7em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.124em; vertical-align: -0.756em;">
+               </span>
+              </span>
+             </span>
+            </span>
+            <span class="mjx-mo">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.151em; padding-bottom: 0.519em;">
+              ;
+             </span>
+            </span>
+            <span class="mjx-mtext MJXc-space1">
+             <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.291em; padding-bottom: 0.372em;">
+             </span>
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2023
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 2.2em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 2.2em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   2023
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 2.2em; bottom: -0.756em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   1
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 2.2em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.124em; vertical-align: -0.756em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       Vậy số cần điền là:
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1 " class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    11
+   </strong>
+   : [TH]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Điền số thích hợp vào chỗ trống:
+     <br/>
+     #[3/11]=[3 x 6/11 x [[6]]]=[[[18]]/66]#
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       Ta có:
+       <br/>
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="\dfrac{3}{11} =\dfrac{3 \times 6}{11 \times 6}=\dfrac{18}{66}" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mstyle">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 1.2em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 1.2em; top: -1.367em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   3
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 1.2em; bottom: -0.756em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   11
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.2em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.123em; vertical-align: -0.756em;">
+               </span>
+              </span>
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 2.922em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 2.922em; top: -1.368em;">
+                 <span class="mjx-mrow">
+                  <span class="mjx-mn">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                    3
+                   </span>
+                  </span>
+                  <span class="mjx-mo MJXc-space2">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+                    ×
+                   </span>
+                  </span>
+                  <span class="mjx-mn MJXc-space2">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                    6
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 2.922em; bottom: -0.778em;">
+                 <span class="mjx-mrow">
+                  <span class="mjx-mn">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                    11
+                   </span>
+                  </span>
+                  <span class="mjx-mo MJXc-space2">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.298em;">
+                    ×
+                   </span>
+                  </span>
+                  <span class="mjx-mn MJXc-space2">
+                   <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                    6
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 2.922em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.146em; vertical-align: -0.778em;">
+               </span>
+              </span>
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mstyle MJXc-space3">
+             <span class="mjx-mrow">
+              <span class="mjx-mfrac">
+               <span class="mjx-box MJXc-stacked" style="width: 1.2em; padding: 0px 0.12em;">
+                <span class="mjx-numerator" style="width: 1.2em; top: -1.368em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   18
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-denominator" style="width: 1.2em; bottom: -0.778em;">
+                 <span class="mjx-mn">
+                  <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+                   66
+                  </span>
+                 </span>
+                </span>
+                <span class="mjx-line" style="border-bottom: 1.3px solid; top: -0.296em; width: 1.2em;">
+                </span>
+               </span>
+               <span class="mjx-vsize" style="height: 2.146em; vertical-align: -0.778em;">
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       Vậy ô trống thứ nhất ta điền số
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="6" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              6
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       Ô trống thứ hai ta điền số
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="18" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              18
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>

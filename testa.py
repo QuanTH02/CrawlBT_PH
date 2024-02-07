@@ -1,0 +1,2 @@
+with open('VioEdu/Khối 2/Học kì 1/K2_PHÉP CỘNG PHÉP TRỪ (CÓ NHỚ) TRONG PHẠM VI 100/K2_Phép cộng (có nhớ) trong phạm vi 100 (Các số có chữ số tận cùng là 6789 cộng với một số)/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.html', "w", encoding="utf-8") as file:
+    file.write("a")
