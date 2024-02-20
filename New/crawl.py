@@ -59,8 +59,11 @@ def html_to_docx(html_string, output_path):
 
     div_childs = div_all[0].find_all("div", recursive=False)
     # print(len(div_childs))
-
-    for div_child in div_childs:
+    
+    print(len(div_childs))
+    print("Chủ điểm mới")
+    for div_child in div_all:
+        print("Duyệt")
         # Xử lý A. B. C. D.
         span_maths = div_child.find_all("span", class_="math-tex")
         for span_math in span_maths:
@@ -109,7 +112,7 @@ def html_to_docx(html_string, output_path):
 
         # Xử lý "SẮP XẾP"
         if "sắp xếp" in div_child.text.lower() and "{}" not in div_child.text.lower():
-            panel_body_div_sx = div_child.find("div", class_="panel-body default_cursor_cs")
+            panel_body_div_sx = div_child.find("div", class_="panel-body")
 
             flex_divs = panel_body_div_sx.find_all("div", class_="default_cursor_cs", style="display: flex;")
 
@@ -174,6 +177,7 @@ def html_to_docx(html_string, output_path):
         # CÂU TRẢ LỜI
         panel_body_divs = div_child.find_all('div', class_='panel-body')
 
+        
         # Duyệt qua từng thẻ <div>
         for div in panel_body_divs:
             # Tìm tất cả các thẻ <li> trong thẻ <div> này
@@ -405,19 +409,19 @@ time.sleep(1)
 # Tạo thư mục khối
 thumuc_khoi = driver.find_element(By.XPATH, '//*[@id="react-select-2--value-item"]')
 tenkhoi = thumuc_khoi.text
-print("Khối")
+# print("Khối")
 if not os.path.exists("VioEdu"):
     # Tạo thư mục mới
     os.mkdir("VioEdu")
-else:
-    print("Thư mục đã tồn tại.")
+# else:
+#     print("Thư mục đã tồn tại.")
 
 # Kiểm tra xem thư mục đã tồn tại hay chưa
 if not os.path.exists("VioEdu" + "/" + tenkhoi):
     # Tạo thư mục mới
     os.mkdir("VioEdu" + "/" + tenkhoi)
-else:
-    print("Thư mục đã tồn tại.")
+# else:
+#     print("Thư mục đã tồn tại.")
 
 
 # Click vào nút đăng nhập
@@ -443,8 +447,8 @@ elif (tenkhoi == "Khối 5"):
 if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1"):
         # Tạo thư mục mới
     os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1")
-else:
-    print("Thư mục đã tồn tại.")
+# else:
+#     print("Thư mục đã tồn tại.")
 
 ########################################################################################################################################################################################################################
 ########################################################################################################################################################################################################################
@@ -456,7 +460,7 @@ dongthe = driver.find_element(By.XPATH, "//*[@id=\"app\"]/div/div[3]/div[3]/div/
 dongthe.click()
 
 div_baitap_elements = driver.find_elements(By.XPATH, "//*[@id=\"app\"]/div/div[3]/div[3]/div/div[3]/div/div[2]/div[2]/div[2]/div/div[3]/div/div/div/div[3]/div")
-print("Chủ Đề")                                                      
+# print("Chủ Đề")                                                      
 for div in div_baitap_elements:
     tenchude = div.text
     tenchude = clean_folder_name(tenchude)
@@ -464,8 +468,8 @@ for div in div_baitap_elements:
     if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1" + "/" + chude_dir + tenchude):
         # Tạo thư mục mới
         os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1" + "/" + chude_dir + tenchude)
-    else:
-        print("Thư mục đã tồn tại.")
+    # else:
+    #     print("Thư mục đã tồn tại.")
 
 # BẮT ĐẦU
 div_baitap_elements = driver.find_elements(By.XPATH, "//*[@id=\"app\"]/div/div[3]/div[3]/div/div[3]/div/div[2]/div[2]/div[2]/div/div[3]/div/div/div/div[3]/div")
@@ -495,15 +499,15 @@ for div in div_baitap_elements:
     # 
     # 
     for div in div_click_baitap_elements:
-        print("Chủ Điểm")
+        # print("Chủ Điểm")
         # Lấy tên Chủ đề
         tenchudiem = div.text
         tenchudiem = clean_folder_name(tenchudiem)
         if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem):
             # Tạo thư mục mới
             os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem)
-        else:
-            print("Thư mục đã tồn tại.")
+        # else:
+        #     print("Thư mục đã tồn tại.")
 
         div.click()
         time.sleep(4)
@@ -561,8 +565,8 @@ for div in div_baitap_elements:
         if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem):
             # Tạo thư mục mới
             os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem)
-        else:
-            print("Thư mục đã tồn tại.")
+        # else:
+        #     print("Thư mục đã tồn tại.")
 
         time.sleep(1)
         div.click()
@@ -633,8 +637,8 @@ for div in div_baitap_elements:
         if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1"  + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem):
             # Tạo thư mục mới
             os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1"  + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem)
-        else:
-            print("Thư mục đã tồn tại.")
+        # else:
+        #     print("Thư mục đã tồn tại.")
 
         time.sleep(1)
         div.click()
@@ -658,7 +662,7 @@ for div in div_baitap_elements:
             time.sleep(2)
 
             # Lấy thẻ div lớn lấy nội dung cần copy
-            copy_all_element = div.find_element(By.XPATH, "//*[@id=\"app\"]/div/div[3]/div[3]/div/div[3]/div/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]")
+            copy_all_element = div.find_element(By.XPATH, "//*[@id=\"app\"]/div/div[3]/div[3]/div/div[3]/div/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]")                                                          
             script = "return arguments[0].innerHTML;"
             content = driver.execute_script(script, copy_all_element)
 
@@ -694,8 +698,8 @@ for div in div_baitap_elements:
         if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1"  + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem):
             # Tạo thư mục mới
             os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 1"  + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem)
-        else:
-            print("Thư mục đã tồn tại.")
+        # else:
+        #     print("Thư mục đã tồn tại.")
 
         time.sleep(1)
         div.click()
@@ -756,8 +760,8 @@ time.sleep(1)
 if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2"):
         # Tạo thư mục mới
     os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2")
-else:
-    print("Thư mục đã tồn tại.")
+# else:
+#     print("Thư mục đã tồn tại.")
 
 
 hki2_click_element = driver.find_element(By.XPATH, "//*[@id=\"app\"]/div/div[3]/div[3]/div/div[3]/div/div[2]/div[2]/div[2]/div/div[3]/div/div/div/div[2]/div[2]")
@@ -777,8 +781,8 @@ for div in div_baitap_elements:
     if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2" + "/" + chude_dir + tenchude):
         # Tạo thư mục mới
         os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2" + "/" + chude_dir + tenchude)
-    else:
-        print("Thư mục đã tồn tại.")
+    # else:
+    #     print("Thư mục đã tồn tại.")
 
 div_baitap_elements = driver.find_elements(By.XPATH, "//*[@id=\"app\"]/div/div[3]/div[3]/div/div[3]/div/div[2]/div[2]/div[2]/div/div[3]/div/div/div/div[3]/div")
 tieptucHK2 = 0
@@ -811,8 +815,8 @@ for div in div_baitap_elements:
         if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem):
             # Tạo thư mục mới
             os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem)
-        else:
-            print("Thư mục đã tồn tại.")
+        # else:
+        #     print("Thư mục đã tồn tại.")
 
         div.click()
         time.sleep(4)
@@ -867,8 +871,8 @@ for div in div_baitap_elements:
         if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem):
             # Tạo thư mục mới
             os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem)
-        else:
-            print("Thư mục đã tồn tại.")
+        # else:
+        #     print("Thư mục đã tồn tại.")
 
         time.sleep(1)
         div.click()
@@ -939,8 +943,8 @@ for div in div_baitap_elements:
         if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2"  + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem):
             # Tạo thư mục mới
             os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2"  + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem)
-        else:
-            print("Thư mục đã tồn tại.")
+        # else:
+        #     print("Thư mục đã tồn tại.")
 
         time.sleep(1)
         div.click()
@@ -998,8 +1002,8 @@ for div in div_baitap_elements:
         if not os.path.exists("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2"  + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem):
             # Tạo thư mục mới
             os.mkdir("VioEdu" + "/" + tenkhoi + "/" + "Học kì 2"  + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem)
-        else:
-            print("Thư mục đã tồn tại.")
+        # else:
+        #     print("Thư mục đã tồn tại.")
 
         time.sleep(1)
         div.click()

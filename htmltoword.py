@@ -9,8 +9,6 @@ def duyet_thu_muc(duong_dan):
         if tap_tin:
             for ten_tap_tin in tap_tin:
                 
-
-                
                 duong_dan_tep_tin = os.path.join(thu_muc_goc, ten_tap_tin)
 
                 time.sleep(1)
@@ -38,19 +36,19 @@ def duyet_thu_muc(duong_dan):
                 time.sleep(1)
 
                 os.startfile(duong_dan_tep_moi)
-                time.sleep(5)
+                time.sleep(7)
 
                 pyautogui.keyDown('ctrl')
                 pyautogui.press('v')
                 pyautogui.keyUp('v')
                 pyautogui.keyUp('ctrl')
-                time.sleep(12)
+                time.sleep(15)
 
                 pyautogui.keyDown('ctrl')
                 pyautogui.press('s')
                 pyautogui.keyUp('s')
                 pyautogui.keyUp('ctrl')
-                time.sleep(3)
+                time.sleep(5)
 
                 click_close_button()
                 time.sleep(1)
@@ -79,6 +77,6 @@ def click_close_button():
 # click_close_button()  # Gọi hàm để nhấn vào nút close ở góc phải màn hình
 
 
-duong_dan = 'VioEdu/Khối 3'
+duong_dan = 'VioEdu/Khối 1'
 
 duyet_thu_muc(duong_dan)
