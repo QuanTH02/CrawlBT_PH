@@ -55,15 +55,16 @@ def html_to_docx(html_string, output_path):
 
 
     div_all = soup.find_all("div", recursive=False)
+
+    if len(div_all) == 0:
+        return
     # print(len(div_child))
 
-    div_childs = div_all[0].find_all("div", recursive=False)
+    # div_childs = div_all[0].find_all("div", recursive=False)
     # print(len(div_childs))
-    
-    print(len(div_childs))
-    print("Chủ điểm mới")
+    # print("Số div cha: " + str(len(div_all)))
+    # print("Số div con: " + str(len(div_childs)))
     for div_child in div_all:
-        print("Duyệt")
         # Xử lý A. B. C. D.
         span_maths = div_child.find_all("span", class_="math-tex")
         for span_math in span_maths:
@@ -114,7 +115,7 @@ def html_to_docx(html_string, output_path):
         if "sắp xếp" in div_child.text.lower() and "{}" not in div_child.text.lower():
             panel_body_div_sx = div_child.find("div", class_="panel-body")
 
-            flex_divs = panel_body_div_sx.find_all("div", class_="default_cursor_cs", style="display: flex;")
+            flex_divs = panel_body_div_sx.find_all("div", style="display: flex;")
 
             for flex_div in flex_divs:
                 answer_sx = soup.new_tag("div")
@@ -162,13 +163,182 @@ def html_to_docx(html_string, output_path):
         for tag in div_child.find_all(string=lambda text: '{}' in text):
             if tag.count("{}") > 1:
                 # Thực hiện thay thế toàn bộ placeholder cùng một lúc
-                new_string = tag.format(*["[[" + value + "]]" for value in results[index:index+tag.count("{}")]])
+                new_values = []
+                for value in results[index:index+tag.count("{}")]:
+                    if value == "ít hơn":
+                        new_values.append("[[" + value + "||" + "<" + "||" + "nhỏ hơn" + "||" + "bé hơn" + "]]")
+                    elif value == "bé hơn":
+                        new_values.append("[[" + value + "||" + "ít hơn" + "||" + "nhỏ hơn" + "||" + "<" + "]]")
+                    elif value == "nhỏ hơn":
+                        new_values.append("[[" + value + "||" + "ít hơn" + "||" + "<" + "||" + "bé hơn" + "]]")
+                    elif value == "<":
+                        new_values.append("[[" + value + "||" + "ít hơn" + "||" + "nhỏ hơn" + "||" + "bé hơn" + "]]")
+
+                    elif value == "nhiều hơn":
+                        new_values.append("[[" + value + "||" + ">" + "||" + "lớn hơn" + "||" + "to hơn" + "]]")
+                    elif value == "lớn hơn":
+                        new_values.append("[[" + value + "||" + ">" + "||" + "nhiều hơn" + "||" + "to hơn" + "]]")
+                    elif value == "to hơn":
+                        new_values.append("[[" + value + "||" + ">" + "||" + "lớn hơn" + "||" + "nhiều hơn" + "]]")
+                    elif value == ">":
+                        new_values.append("[[" + value + "||" + "nhiều hơn" + "||" + "lớn hơn" + "||" + "to hơn" + "]]")
+
+                    elif value == "bằng nhau":
+                        new_values.append("[[" + value + "||" + "=" + "||" + "bằng" + "]]")
+                    elif value == "bằng":
+                        new_values.append("[[" + value + "||" + "=" + "||" + "bằng nhau" + "]]")
+                    elif value == "=":
+                        new_values.append("[[" + value + "||" + "bằng" + "||" + "bằng nhau" + "]]")
+
+                    elif value == "Đúng":
+                        new_values.append("[[" + value + "||" + "Chính xác" + "||" + "True" + "]]")
+                    elif value == "Chính xác":
+                        new_values.append("[[" + value + "||" + "Đúng" + "||" + "True" + "]]")
+                    elif value == "True":
+                        new_values.append("[[" + value + "||" + "Chính xác" + "||" + "Đúng" + "]]")
+
+                    elif value == "Sai":
+                        new_values.append("[[" + value + "||" + "Không chính xác" + "||" + "False" + "||" + "Chưa chính xác" + "]]")
+                    elif value == "Không chính xác":
+                        new_values.append("[[" + value + "||" + "Sai" + "||" + "False" + "||" + "Chưa chính xác" + "]]")
+                    elif value == "False":
+                        new_values.append("[[" + value + "||" + "Sai" + "||" + "Không chính xác" + "||" + "Chưa chính xác" + "]]")
+
+                    elif value == "Phải":
+                        new_values.append("[[" + value + "||" + "Bên phải" + "||" + "Phía bên phải" + "]]")
+                    elif value == "Bên phải":
+                        new_values.append("[[" + value + "||" + "Phải" + "||" + "Phía bên phải" + "]]")
+                    elif value == "Phía bên phải":
+                        new_values.append("[[" + value + "||" + "Phải" + "||" + "Bên phải" + "]]")
+
+                    elif value == "Trái":
+                        new_values.append("[[" + value + "||" + "Bên trái" + "||" + "Phía bên trái" + "]]")
+                    elif value == "Bên trái":
+                        new_values.append("[[" + value + "||" + "Trái" + "||" + "Phía bên trái" + "]]")
+                    elif value == "Phía bên trái":
+                        new_values.append("[[" + value + "||" + "Trái" + "||" + "Bên trái" + "]]")
+                    
+                    elif value == "Trên":
+                        new_values.append("[[" + value + "||" + "Phía trên" + "||" + "Bên trên" + "]]")
+                    elif value == "Phía trên":
+                        new_values.append("[[" + value + "||" + "Trên" + "||" + "Bên trên" + "]]")
+                    elif value == "Bên trên":
+                        new_values.append("[[" + value + "||" + "Trên" + "||" + "Phía trên" + "]]")
+                    
+                    elif value == "Dưới":
+                        new_values.append("[[" + value + "||" + "Phía dưới" + "||" + "Bên dưới" + "]]")
+                    elif value == "Phía dưới":
+                        new_values.append("[[" + value + "||" + "Dưới" + "||" + "Bên dưới" + "]]")
+                    elif value == "Bên dưới":
+                        new_values.append("[[" + value + "||" + "Dưới" + "||" + "Phía dưới" + "]]")
+                    
+                    elif value == "Trước":
+                        new_values.append("[[" + value + "||" + "Phía trước" + "||" + "Đằng trước" + "]]")
+                    elif value == "Phía trước":
+                        new_values.append("[[" + value + "||" + "Trước" + "||" + "Đằng trước" + "]]")
+                    elif value == "Đằng trước":
+                        new_values.append("[[" + value + "||" + "Trước" + "||" + "Phía trước" + "]]")
+                    
+                    elif value == "Sau":
+                        new_values.append("[[" + value + "||" + "Phía sau" + "||" + "Đằng sau" + "]]")
+                    elif value == "Phía sau":
+                        new_values.append("[[" + value + "||" + "Sau" + "||" + "Đằng sau" + "]]")
+                    elif value == "Đằng sau":
+                        new_values.append("[[" + value + "||" + "Sau" + "||" + "Phía sau" + "]]")
+
+                    else:
+                        new_values.append("[[" + value + "]]")
+                new_string = tag.format(*new_values)
+
                 tag.replace_with(new_string)
                 index += tag.count("{}")
             else:
                 # Thay thế nội dung của tag trực tiếp
-                if results[index]:
-                    new_string = tag.replace("{}", "[[" + results[index] + "]]")
+                if index < len(results):
+                    if results[index] == "ít hơn":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "<" + "||" + "nhỏ hơn" + "||" + "bé hơn" + "]]")
+                    elif results[index] == "bé hơn":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "ít hơn" + "||" + "nhỏ hơn" + "||" + "<" + "]]")
+                    elif results[index] == "nhỏ hơn":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "ít hơn" + "||" + "<" + "||" + "bé hơn" + "]]")
+                    elif results[index] == "<":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "ít hơn" + "||" + "nhỏ hơn" + "||" + "bé hơn" + "]]")
+                    
+                    elif results[index] == "nhiều hơn":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + ">" + "||" + "lớn hơn" + "||" + "to hơn" + "]]")
+                    elif results[index] == "lớn hơn":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + ">" + "||" + "nhiều hơn" + "||" + "to hơn" + "]]")
+                    elif results[index] == "to hơn":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + ">" + "||" + "lớn hơn" + "||" + "nhiều hơn" + "]]")
+                    elif results[index] == ">":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "nhiều hơn" + "||" + "lớn hơn" + "||" + "to hơn" + "]]")
+                    
+                    elif results[index] == "bằng nhau":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "=" + "||" + "bằng" + "]]")
+                    elif results[index] == "bằng":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "=" + "||" + "bằng nhau" + "]]")
+                    elif results[index] == "=":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "bằng" + "||" + "bằng nhau" + "]]")
+                    
+                    elif results[index] == "Đúng":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Chính xác" + "||" + "True" + "]]")
+                    elif results[index] == "Chính xác":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Đúng" + "||" + "True" + "]]")
+                    elif results[index] == "True":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Chính xác" + "||" + "Đúng" + "]]")
+                    
+                    elif results[index] == "Sai":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Không chính xác" + "||" + "False" + "||" + "Chưa chính xác" + "]]")
+                    elif results[index] == "Không chính xác":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Sai" + "||" + "False" + "||" + "Chưa chính xác" + "]]")
+                    elif results[index] == "False":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Sai" + "||" + "Không chính xác" + "||" + "Chưa chính xác" + "]]")
+                    
+                    elif results[index] == "Phải":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Bên phải" + "||" + "Phía bên phải" + "]]")
+                    elif results[index] == "Bên phải":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Phải" + "||" + "Phía bên phải" + "]]")
+                    elif results[index] == "Phía bên phải":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Phải" + "||" + "Bên phải" + "]]")
+                    
+                    elif results[index] == "Trái":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Bên trái" + "||" + "Phía bên trái" + "]]")
+                    elif results[index] == "Bên trái":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Trái" + "||" + "Phía bên trái" + "]]")
+                    elif results[index] == "Phía bên trái":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Trái" + "||" + "Bên trái" + "]]")
+                    
+                    elif results[index] == "Trên":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Phía trên" + "||" + "Bên trên" + "]]")
+                    elif results[index] == "Phía trên":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Trên" + "||" + "Bên trên" + "]]")
+                    elif results[index] == "Bên trên":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Trên" + "||" + "Phía trên" + "]]")
+                    
+                    elif results[index] == "Dưới":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Phía dưới" + "||" + "Bên dưới" + "]]")
+                    elif results[index] == "Phía dưới":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Dưới" + "||" + "Bên dưới" + "]]")
+                    elif results[index] == "Bên dưới":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Dưới" + "||" + "Phía dưới" + "]]")
+                    
+                    elif results[index] == "Trước":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Phía trước" + "||" + "Đằng trước" + "]]")
+                    elif results[index] == "Phía trước":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Trước" + "||" + "Đằng trước" + "]]")
+                    elif results[index] == "Đằng trước":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Trước" + "||" + "Phía trước" + "]]")
+                    
+                    elif results[index] == "Sau":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Phía sau" + "||" + "Đằng sau" + "]]")
+                    elif results[index] == "Phía sau":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Sau" + "||" + "Đằng sau" + "]]")
+                    elif results[index] == "Đằng sau":
+                        new_string = tag.replace("{}", "[[" + results[index] + "||" + "Sau" + "||" + "Phía sau" + "]]")
+                    
+                    else:
+                        new_string = tag.replace("{}", "[[" + results[index] + "]]")
+                    
                     tag.replace_with(new_string)
                     index += 1
                 else:
@@ -177,7 +347,6 @@ def html_to_docx(html_string, output_path):
         # CÂU TRẢ LỜI
         panel_body_divs = div_child.find_all('div', class_='panel-body')
 
-        
         # Duyệt qua từng thẻ <div>
         for div in panel_body_divs:
             # Tìm tất cả các thẻ <li> trong thẻ <div> này
@@ -538,6 +707,7 @@ for div in div_baitap_elements:
             elif mucdo == 4:
                 dienmucdo = "_VDC"
             
+            print(tenchudiem + dienmucdo)
             output_path = "VioEdu" + "/" + tenkhoi + "/" + "Học kì 1" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem + "/" + chude_dir + clean_file_name(tenchudiem) + dienmucdo + ".html"
             
             # Tạo file HTML
@@ -603,6 +773,7 @@ for div in div_baitap_elements:
             elif mucdo == 4:
                 dienmucdo = "_VDC"
             
+            print(tenchudiem + dienmucdo)
             output_path = "VioEdu" + "/" + tenkhoi + "/" + "Học kì 1" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem + "/" + chude_dir + clean_file_name(tenchudiem) + dienmucdo + ".html"
             
             # Tạo file HTML
@@ -674,7 +845,8 @@ for div in div_baitap_elements:
                 dienmucdo = "_VD"
             elif mucdo == 4:
                 dienmucdo = "_VDC"
-            
+
+            print(tenchudiem + dienmucdo)
             output_path = "VioEdu" + "/" + tenkhoi + "/" + "Học kì 1" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem + "/" + chude_dir + clean_file_name(tenchudiem) + dienmucdo + ".html"
             
             # Tạo file HTML
@@ -736,6 +908,7 @@ for div in div_baitap_elements:
             elif mucdo == 4:
                 dienmucdo = "_VDC"
             
+            print(tenchudiem + dienmucdo)
             output_path = "VioEdu" + "/" + tenkhoi + "/" + "Học kì 1" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem + "/" + chude_dir + clean_file_name(tenchudiem) + dienmucdo + ".html"
             
             # Tạo file HTML
@@ -847,6 +1020,7 @@ for div in div_baitap_elements:
             elif mucdo == 4:
                 dienmucdo = "_VDC"
             
+            print(tenchudiem + dienmucdo)
             output_path = "VioEdu" + "/" + tenkhoi + "/" + "Học kì 2" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem + "/" + chude_dir + clean_file_name(tenchudiem) + dienmucdo + ".html"
             
             # Tạo file HTML
@@ -909,6 +1083,7 @@ for div in div_baitap_elements:
             elif mucdo == 4:
                 dienmucdo = "_VDC"
             
+            print(tenchudiem + dienmucdo)
             output_path = "VioEdu" + "/" + tenkhoi + "/" + "Học kì 2" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem + "/" + chude_dir + clean_file_name(tenchudiem) + dienmucdo + ".html"
             
             # Tạo file HTML
@@ -981,6 +1156,7 @@ for div in div_baitap_elements:
             elif mucdo == 4:
                 dienmucdo = "_VDC"
             
+            print(tenchudiem + dienmucdo)
             output_path = "VioEdu" + "/" + tenkhoi + "/" + "Học kì 2" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem + "/" + chude_dir + clean_file_name(tenchudiem) + dienmucdo + ".html"
             
             # Tạo file HTML
@@ -1040,6 +1216,7 @@ for div in div_baitap_elements:
             elif mucdo == 4:
                 dienmucdo = "_VDC"
             
+            print(tenchudiem + dienmucdo)
             output_path = "VioEdu" + "/" + tenkhoi + "/" + "Học kì 2" + "/" + chude_dir + tenchude + "/" + chude_dir + tenchudiem + "/" + chude_dir + clean_file_name(tenchudiem) + dienmucdo + ".html"
             
             # Tạo file HTML
