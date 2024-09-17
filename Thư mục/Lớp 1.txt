@@ -1,0 +1,483 @@
+Toán 1 (VioEdu)
+
+Học kì 1
+
+Chủ đề 1: Các số từ 0 đến 10
+
+Các số 7, 8, 9
+(NB) Các số 7, 8, 9
+(TH) Các số 7, 8, 9
+(VD) Các số 7, 8, 9
+(VDC) Các số 7, 8, 9
+
+Số 10
+(NB) Số 10
+(TH) Số 10
+(VD) Số 10
+(VDC) Số 10
+
+Các số 4, 5, 6
+(NB) Các số 4, 5, 6
+(TH) Các số 4, 5, 6
+(VD) Các số 4, 5, 6
+(VDC) Các số 4, 5, 6
+
+Các số 1, 2, 3
+(NB) Các số 1, 2, 3
+(TH) Các số 1, 2, 3
+(VD) Các số 1, 2, 3
+(VDC) Các số 1, 2, 3
+
+Số 0
+(NB) Số 0
+(TH) Số 0
+(VD) Số 0
+(VDC) Số 0
+
+Chủ đề 2: So sánh vị trí, nhiều ít, lớn bé
+
+Nhiều hơn, ít hơn, bằng nhau
+(NB) Nhiều hơn, ít hơn, bằng nhau
+(TH) Nhiều hơn, ít hơn, bằng nhau
+(VD) Nhiều hơn, ít hơn, bằng nhau
+(VDC) Nhiều hơn, ít hơn, bằng nhau
+
+Trên - dưới. Phải - trái. Trước - sau. Ở giữa.
+(NB) Trên - dưới. Phải - trái. Trước - sau. Ở giữa.
+(TH) Trên - dưới. Phải - trái. Trước - sau. Ở giữa.
+(VD) Trên - dưới. Phải - trái. Trước - sau. Ở giữa.
+(VDC) Trên - dưới. Phải - trái. Trước - sau. Ở giữa.
+
+Bé hơn, dấu . Lớn hơn, dấu . Bằng nhau, dấu =
+(NB) Bé hơn, dấu . Lớn hơn, dấu . Bằng nhau, dấu =
+(TH) Bé hơn, dấu . Lớn hơn, dấu . Bằng nhau, dấu =
+(VD) Bé hơn, dấu . Lớn hơn, dấu . Bằng nhau, dấu =
+(VDC) Bé hơn, dấu . Lớn hơn, dấu . Bằng nhau, dấu =
+
+Chủ đề 3: Hình học
+
+Hình vuông, hình tròn, hình tam giác, hình chữ nhật
+(NB) Hình vuông, hình tròn, hình tam giác, hình chữ nhật
+(TH) Hình vuông, hình tròn, hình tam giác, hình chữ nhật
+(VD) Hình vuông, hình tròn, hình tam giác, hình chữ nhật
+(VDC) Hình vuông, hình tròn, hình tam giác, hình chữ nhật
+
+Khối hộp chữ nhật, khối lập phương
+(NB) Khối hộp chữ nhật, khối lập phương
+(TH) Khối hộp chữ nhật, khối lập phương
+(VD) Khối hộp chữ nhật, khối lập phương
+(VDC) Khối hộp chữ nhật, khối lập phương
+
+Chủ đề 4: Phép cộng trong phạm vi đến 10
+
+Làm quen với phép cộng - dấu cộng
+(NB) Làm quen với phép cộng - dấu cộng
+(TH) Làm quen với phép cộng - dấu cộng
+(VD) Làm quen với phép cộng - dấu cộng
+(VDC) Làm quen với phép cộng - dấu cộng
+
+Phép cộng trong phạm vi 10
+(NB) Phép cộng trong phạm vi 10
+(TH) Phép cộng trong phạm vi 10
+(VD) Phép cộng trong phạm vi 10
+(VDC) Phép cộng trong phạm vi 10
+
+Phép cộng trong phạm vi 6
+(NB) Phép cộng trong phạm vi 6
+(TH) Phép cộng trong phạm vi 6
+(VD) Phép cộng trong phạm vi 6
+(VDC) Phép cộng trong phạm vi 6
+
+Cộng bằng cách đếm tiếp
+(NB) Cộng bằng cách đếm tiếp
+(TH) Cộng bằng cách đếm tiếp
+(VD) Cộng bằng cách đếm tiếp
+(VDC) Cộng bằng cách đếm tiếp
+
+Chủ đề 5: Ôn tập chủ đề hình học, đo lường
+
+Ôn tập đo lường
+(NB) Ôn tập đo lường
+(TH) Ôn tập đo lường
+(VD) Ôn tập đo lường
+(VDC) Ôn tập đo lường
+
+Ôn tập Hình học
+(NB) Ôn tập Hình học
+(TH) Ôn tập Hình học
+(VD) Ôn tập Hình học
+(VDC) Ôn tập Hình học
+
+Chủ đề 6: Phép trừ trong phạm vi đến 10
+
+Phép trừ trong phạm vi 10
+(NB) Phép trừ trong phạm vi 10
+(TH) Phép trừ trong phạm vi 10
+(VD) Phép trừ trong phạm vi 10
+(VDC) Phép trừ trong phạm vi 10
+
+Phép trừ trong phạm vi 6
+(NB) Phép trừ trong phạm vi 6
+(TH) Phép trừ trong phạm vi 6
+(VD) Phép trừ trong phạm vi 6
+(VDC) Phép trừ trong phạm vi 6
+
+Làm quen với phép trừ - dấu trừ
+(NB) Làm quen với phép trừ - dấu trừ
+(TH) Làm quen với phép trừ - dấu trừ
+(VD) Làm quen với phép trừ - dấu trừ
+(VDC) Làm quen với phép trừ - dấu trừ
+
+Trừ bằng cách đếm lùi
+(NB) Trừ bằng cách đếm lùi
+(TH) Trừ bằng cách đếm lùi
+(VD) Trừ bằng cách đếm lùi
+(VDC) Trừ bằng cách đếm lùi
+
+Chủ đề 7: Ôn tập các số đến 10
+
+Ôn tập phép cộng trong phạm vi đến 10
+(NB) Ôn tập phép cộng trong phạm vi đến 10
+(TH) Ôn tập phép cộng trong phạm vi đến 10
+(VD) Ôn tập phép cộng trong phạm vi đến 10
+(VDC) Ôn tập phép cộng trong phạm vi đến 10
+
+Ôn tập các số đến 10
+(NB) Ôn tập các số đến 10
+(TH) Ôn tập các số đến 10
+(VD) Ôn tập các số đến 10
+(VDC) Ôn tập các số đến 10
+
+Ôn tập phép trừ trong phạm vi đến 10
+(NB) Ôn tập phép trừ trong phạm vi đến 10
+(TH) Ôn tập phép trừ trong phạm vi đến 10
+(VD) Ôn tập phép trừ trong phạm vi đến 10
+(VDC) Ôn tập phép trừ trong phạm vi đến 10
+
+Ôn tập so sánh vị trí, nhiều ít, lớn bé
+(NB) Ôn tập so sánh vị trí, nhiều ít, lớn bé
+(TH) Ôn tập so sánh vị trí, nhiều ít, lớn bé
+(VD) Ôn tập so sánh vị trí, nhiều ít, lớn bé
+(VDC) Ôn tập so sánh vị trí, nhiều ít, lớn bé
+
+Học kì 2
+
+Chủ đề 1: Các số từ 11 đến 20
+
+Các số 11, 12, 13, 14, 15, 16
+(NB) Các số 11, 12, 13, 14, 15, 16
+(TH) Các số 11, 12, 13, 14, 15, 16
+(VD) Các số 11, 12, 13, 14, 15, 16
+(VDC) Các số 11, 12, 13, 14, 15, 16
+
+Các số 17,18,19,20
+(NB) Các số 17,18,19,20
+(TH) Các số 17,18,19,20
+(VD) Các số 17,18,19,20
+(VDC) Các số 17,18,19,20
+
+Chủ đề 2: Các số đến 100
+
+Chục và đơn vị
+(NB) Chục và đơn vị
+(TH) Chục và đơn vị
+(VD) Chục và đơn vị
+(VDC) Chục và đơn vị
+
+Các số 10, 20, 30, 40, 50, 60, 70, 80, 90, 100
+(NB) Các số 10, 20, 30, 40, 50, 60, 70, 80, 90, 100
+(TH) Các số 10, 20, 30, 40, 50, 60, 70, 80, 90, 100
+(VD) Các số 10, 20, 30, 40, 50, 60, 70, 80, 90, 100
+(VDC) Các số 10, 20, 30, 40, 50, 60, 70, 80, 90, 100
+
+Các số có hai chữ số (từ 41 đến 70)
+(NB) Các số có hai chữ số (từ 41 đến 70)
+(TH) Các số có hai chữ số (từ 41 đến 70)
+(VD) Các số có hai chữ số (từ 41 đến 70)
+(VDC) Các số có hai chữ số (từ 41 đến 70)
+
+Các số có hai chữ số (từ 21 đến 40)
+(NB) Các số có hai chữ số (từ 21 đến 40)
+(TH) Các số có hai chữ số (từ 21 đến 40)
+(VD) Các số có hai chữ số (từ 21 đến 40)
+(VDC) Các số có hai chữ số (từ 21 đến 40)
+
+So sánh các số trong phạm vi 100
+(NB) So sánh các số trong phạm vi 100
+(TH) So sánh các số trong phạm vi 100
+(VD) So sánh các số trong phạm vi 100
+(VDC) So sánh các số trong phạm vi 100
+
+Các số có hai chữ số (từ 71 đến 99)
+(NB) Các số có hai chữ số (từ 71 đến 99)
+(TH) Các số có hai chữ số (từ 71 đến 99)
+(VD) Các số có hai chữ số (từ 71 đến 99)
+(VDC) Các số có hai chữ số (từ 71 đến 99)
+
+Chủ đề 3: Phép cộng trong phạm vi 100
+
+Phép cộng dạng 25 + 4, 25 + 40
+(NB) Phép cộng dạng 25 + 4, 25 + 40
+(TH) Phép cộng dạng 25 + 4, 25 + 40
+(VD) Phép cộng dạng 25 + 4, 25 + 40
+(VDC) Phép cộng dạng 25 + 4, 25 + 40
+
+Cộng các số tròn chục
+(NB) Cộng các số tròn chục
+(TH) Cộng các số tròn chục
+(VD) Cộng các số tròn chục
+(VDC) Cộng các số tròn chục
+
+Phép cộng dạng 25 + 14
+(NB) Phép cộng dạng 25 + 14
+(TH) Phép cộng dạng 25 + 14
+(VD) Phép cộng dạng 25 + 14
+(VDC) Phép cộng dạng 25 + 14
+
+Phép cộng dạng 14 + 3
+(NB) Phép cộng dạng 14 + 3
+(TH) Phép cộng dạng 14 + 3
+(VD) Phép cộng dạng 14 + 3
+(VDC) Phép cộng dạng 14 + 3
+
+Chủ đề 4: Phép trừ trong phạm vi 100
+
+Phép trừ dạng 17 - 2
+(NB) Phép trừ dạng 17 - 2
+(TH) Phép trừ dạng 17 - 2
+(VD) Phép trừ dạng 17 - 2
+(VDC) Phép trừ dạng 17 - 2
+
+Phép trừ dạng 39 - 15
+(NB) Phép trừ dạng 39 - 15
+(TH) Phép trừ dạng 39 - 15
+(VD) Phép trừ dạng 39 - 15
+(VDC) Phép trừ dạng 39 - 15
+
+Trừ các số tròn chục
+(NB) Trừ các số tròn chục
+(TH) Trừ các số tròn chục
+(VD) Trừ các số tròn chục
+(VDC) Trừ các số tròn chục
+
+Phép trừ dạng 27 - 4, 63 - 40
+(NB) Phép trừ dạng 27 - 4, 63 - 40
+(TH) Phép trừ dạng 27 - 4, 63 - 40
+(VD) Phép trừ dạng 27 - 4, 63 - 40
+(VDC) Phép trừ dạng 27 - 4, 63 - 40
+
+Chủ đề 5: Đo lường
+
+Đồng hồ - thời gian
+(NB) Đồng hồ - thời gian
+(TH) Đồng hồ - thời gian
+(VD) Đồng hồ - thời gian
+(VDC) Đồng hồ - thời gian
+
+Các ngày trong tuần lễ
+(NB) Các ngày trong tuần lễ
+(TH) Các ngày trong tuần lễ
+(VD) Các ngày trong tuần lễ
+(VDC) Các ngày trong tuần lễ
+
+Xăng - ti - mét
+(NB) Xăng - ti - mét
+(TH) Xăng - ti - mét
+(VD) Xăng - ti - mét
+(VDC) Xăng - ti - mét
+
+Dài hơn, ngắn hơn
+(NB) Dài hơn, ngắn hơn
+(TH) Dài hơn, ngắn hơn
+(VD) Dài hơn, ngắn hơn
+(VDC) Dài hơn, ngắn hơn
+
+Đo độ dài
+(NB) Đo độ dài
+(TH) Đo độ dài
+(VD) Đo độ dài
+(VDC) Đo độ dài
+
+Chủ đề 6: Ôn tập các số trong phạm vi 100
+
+Các số từ 11 đến 20
+(NB) Các số từ 11 đến 20
+(TH) Các số từ 11 đến 20
+(VD) Các số từ 11 đến 20
+(VDC) Các số từ 11 đến 20
+
+Phép cộng trong phạm vi 100
+(NB) Phép cộng trong phạm vi 100
+(TH) Phép cộng trong phạm vi 100
+(VD) Phép cộng trong phạm vi 100
+(VDC) Phép cộng trong phạm vi 100
+
+Các số từ 21 đến 100
+(NB) Các số từ 21 đến 100
+(TH) Các số từ 21 đến 100
+(VD) Các số từ 21 đến 100
+(VDC) Các số từ 21 đến 100
+
+Phép trừ trong phạm vi 100
+(NB) Phép trừ trong phạm vi 100
+(TH) Phép trừ trong phạm vi 100
+(VD) Phép trừ trong phạm vi 100
+(VDC) Phép trừ trong phạm vi 100
+
+Chủ đề 7: Ôn tập chủ đề hình học, đo lường
+
+Ôn tập đo lường
+(NB) Ôn tập đo lường
+(TH) Ôn tập đo lường
+(VD) Ôn tập đo lường
+(VDC) Ôn tập đo lường
+
+Ôn tập Hình học
+(NB) Ôn tập Hình học
+(TH) Ôn tập Hình học
+(VD) Ôn tập Hình học
+(VDC) Ôn tập Hình học
+
+Chủ đề 8: Đọc thêm toán có lời văn
+
+Đọc thêm Giải toán có lời văn
+(NB) Đọc thêm Giải toán có lời văn
+(TH) Đọc thêm Giải toán có lời văn
+(VD) Đọc thêm Giải toán có lời văn
+(VDC) Đọc thêm Giải toán có lời văn
+
+Đọc thêm Bài toán có lời văn
+(NB) Đọc thêm Bài toán có lời văn
+(TH) Đọc thêm Bài toán có lời văn
+(VD) Đọc thêm Bài toán có lời văn
+(VDC) Đọc thêm Bài toán có lời văn
+
+Chủ đề 9: Đọc thêm điểm, đoạn thẳng
+
+Đọc thêm độ dài đoạn thẳng
+(NB) Đọc thêm độ dài đoạn thẳng
+(TH) Đọc thêm độ dài đoạn thẳng
+(VD) Đọc thêm độ dài đoạn thẳng
+(VDC) Đọc thêm độ dài đoạn thẳng
+
+Đọc thêm điểm ở trong, điểm ở ngoài một hình
+(NB) Đọc thêm điểm ở trong, điểm ở ngoài một hình
+(TH) Đọc thêm điểm ở trong, điểm ở ngoài một hình
+(VD) Đọc thêm điểm ở trong, điểm ở ngoài một hình
+(VDC) Đọc thêm điểm ở trong, điểm ở ngoài một hình
+
+Đọc thêm Vẽ đoạn thẳng có độ dài cho trước
+(NB) Đọc thêm Vẽ đoạn thẳng có độ dài cho trước
+(TH) Đọc thêm Vẽ đoạn thẳng có độ dài cho trước
+(VD) Đọc thêm Vẽ đoạn thẳng có độ dài cho trước
+(VDC) Đọc thêm Vẽ đoạn thẳng có độ dài cho trước
+
+Đọc thêm thực hành đo độ dài
+(NB) Đọc thêm thực hành đo độ dài
+(TH) Đọc thêm thực hành đo độ dài
+(VD) Đọc thêm thực hành đo độ dài
+(VDC) Đọc thêm thực hành đo độ dài
+
+Đọc thêm ôn tập điểm, đoạn thẳng
+(NB) Đọc thêm ôn tập điểm, đoạn thẳng
+(TH) Đọc thêm ôn tập điểm, đoạn thẳng
+(VD) Đọc thêm ôn tập điểm, đoạn thẳng
+(VDC) Đọc thêm ôn tập điểm, đoạn thẳng
+
+Đọc thêm điểm, đoạn thẳng
+(NB) Đọc thêm điểm, đoạn thẳng
+(TH) Đọc thêm điểm, đoạn thẳng
+(VD) Đọc thêm điểm, đoạn thẳng
+(VDC) Đọc thêm điểm, đoạn thẳng
+
+Chủ đề 10: Đọc thêm một chục, tia số
+
+Đọc thêm một chục, tia số
+(NB) Đọc thêm một chục, tia số
+(TH) Đọc thêm một chục, tia số
+(VD) Đọc thêm một chục, tia số
+(VDC) Đọc thêm một chục, tia số
+
+Chủ đề 11: Đọc thêm bảng các số từ 1 đến 100
+
+Bảng các số từ 1 đến 100
+(NB) Bảng các số từ 1 đến 100
+(TH) Bảng các số từ 1 đến 100
+(VD) Bảng các số từ 1 đến 100
+(VDC) Bảng các số từ 1 đến 100
+
+Chủ đề 12: Đọc thêm ôn tập toán có lời văn
+
+Đọc thêm chủ điểm ôn tập toán có lời văn
+(NB) Đọc thêm chủ điểm ôn tập toán có lời văn
+(TH) Đọc thêm chủ điểm ôn tập toán có lời văn
+(VD) Đọc thêm chủ điểm ôn tập toán có lời văn
+(VDC) Đọc thêm chủ điểm ôn tập toán có lời văn
+
+Chủ đề 13: Đọc thêm về xăng - ti - mét chương trình sgk cũ
+
+Đọc thêm Xăng - ti - mét chương trình SGK cũ
+(NB) Đọc thêm Xăng - ti - mét chương trình SGK cũ
+(TH) Đọc thêm Xăng - ti - mét chương trình SGK cũ
+(VD) Đọc thêm Xăng - ti - mét chương trình SGK cũ
+(VDC) Đọc thêm Xăng - ti - mét chương trình SGK cũ
+
+Chủ đề 14: Đọc thêm đo độ dài chương trình sgk cũ
+
+Đọc thêm đo độ dài chương trình SGK cũ
+(NB) Đọc thêm đo độ dài chương trình SGK cũ
+(TH) Đọc thêm đo độ dài chương trình SGK cũ
+(VD) Đọc thêm đo độ dài chương trình SGK cũ
+(VDC) Đọc thêm đo độ dài chương trình SGK cũ
+
+Chủ đề 15: Toán suy luận
+
+Suy luận theo Nguyên lý
+(NB) Suy luận theo Nguyên lý
+(TH) Suy luận theo Nguyên lý
+(VD) Suy luận theo Nguyên lý
+(VDC) Suy luận theo Nguyên lý
+
+Suy luận theo Logic
+(NB) Suy luận theo Logic
+(TH) Suy luận theo Logic
+(VD) Suy luận theo Logic
+(VDC) Suy luận theo Logic
+
+Suy luận theo Tổ hợp
+(NB) Suy luận theo Tổ hợp
+(TH) Suy luận theo Tổ hợp
+(VD) Suy luận theo Tổ hợp
+(VDC) Suy luận theo Tổ hợp
+
+Suy luận theo Quy luật
+(NB) Suy luận theo Quy luật
+(TH) Suy luận theo Quy luật
+(VD) Suy luận theo Quy luật
+(VDC) Suy luận theo Quy luật
+
+Chủ đề 16: Toán thực tế
+
+Bài toán có yếu tố Thống kê - Xác suất
+(NB) Bài toán có yếu tố Thống kê - Xác suất
+(TH) Bài toán có yếu tố Thống kê - Xác suất
+(VD) Bài toán có yếu tố Thống kê - Xác suất
+(VDC) Bài toán có yếu tố Thống kê - Xác suất
+
+Bài toán có yếu tố Kinh tế - Tài chính
+(NB) Bài toán có yếu tố Kinh tế - Tài chính
+(TH) Bài toán có yếu tố Kinh tế - Tài chính
+(VD) Bài toán có yếu tố Kinh tế - Tài chính
+(VDC) Bài toán có yếu tố Kinh tế - Tài chính
+
+Bài toán có yếu tố Đo đạc - So sánh - Tỉ lệ
+(NB) Bài toán có yếu tố Đo đạc - So sánh - Tỉ lệ
+(TH) Bài toán có yếu tố Đo đạc - So sánh - Tỉ lệ
+(VD) Bài toán có yếu tố Đo đạc - So sánh - Tỉ lệ
+(VDC) Bài toán có yếu tố Đo đạc - So sánh - Tỉ lệ
+
+Bài toán có yếu tố Tính toán - Định lượng
+(NB) Bài toán có yếu tố Tính toán - Định lượng
+(TH) Bài toán có yếu tố Tính toán - Định lượng
+(VD) Bài toán có yếu tố Tính toán - Định lượng
+(VDC) Bài toán có yếu tố Tính toán - Định lượn

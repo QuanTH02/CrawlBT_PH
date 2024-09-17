@@ -1,0 +1,3655 @@
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    1
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Điền vào chỗ trống để có câu trả lời đúng.
+     <br/>
+     Trong số
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="415\ 263" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            415
+           </span>
+          </span>
+          <span class="mjx-mtext">
+           <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.291em; padding-bottom: 0.372em;">
+           </span>
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            263
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     , chữ số thuộc hàng trăm nghìn là [[4]].
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       Các số có
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="6" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              6
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chữ số gồm có hàng trăm nghìn, hàng chục nghìn, hàng nghìn, hàng trăm, hàng chục và hàng đơn vị theo thứ tự từ trái sang phải.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Trong số
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="415\ 263" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              415
+             </span>
+            </span>
+            <span class="mjx-mtext">
+             <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.291em; padding-bottom: 0.372em;">
+             </span>
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              263
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       , chữ số thuộc hàng trăm nghìn là
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="4 " class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="4" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    2
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án đúng để điền vào ô trống.
+     <br/>
+     a) Chữ số hàng trăm nghìn của số
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="534\;685" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            534
+           </span>
+          </span>
+          <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            685
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[nhỏ hơn]] chữ số hàng chục nghìn của số
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="674\;798" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            674
+           </span>
+          </span>
+          <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            798
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     .
+     <br/>
+     b) Chữ số hàng nghìn của số
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="540\;087" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            540
+           </span>
+          </span>
+          <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            087
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     là chữ số [[0]]
+     <br/>
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lý thuyết:
+       </b>
+       <br/>
+       Chữ số hàng trăm nghìn là chữ số thứ sáu tính từ phải sang; chữ số hàng chục nghìn là chữ số thứ năm tính từ phải sang; chữ số hàng nghìn là chữ số thứ tư tính từ phải sang.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       a) Chữ số hàng trăm nghìn của
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="534\;685" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              534
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              685
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       là chữ số
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="5" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              5
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       Chữ số hàng chục nghìn của số
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="674\;798" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              674
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              798
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       là chữ số
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="7" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              7
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="5 &lt; 7" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              5
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.372em;">
+              &lt;
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              7
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       b)
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    3
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Hãy chọn đáp án đúng.
+     <br/>
+     Số năm trăm linh sáu nghìn không trăm ba mươi viết là
+    </p>
+   </div>
+   <div>
+    <u>
+     A.
+    </u>
+    506030.
+   </div>
+   B. 50630.
+   C. 5063
+   D. 563.
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+       </b>
+       <br/>
+       Đáp án đúng là
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="506 030" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              506
+             </span>
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              030
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       Lỗi sai thường mắc phải:
+       <br/>
+       - Học sinh có thể quên hàng trăm nghìn mới học nên chỉ viết số có
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="5" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              5
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chữ số nên chọn
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="50 630" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              50
+             </span>
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              630
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       - Học sinh chỉ viết những chữ số xuất hiện nên chọn
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="563" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              563
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    4
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Chọn số đúng để hoàn thành câu trả lời theo mẫu:
+     <br/>
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="243 365 =" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            243
+           </span>
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            365
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space3">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+            =
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[200000]]
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="+" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mo">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[40000]]
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="+" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mo">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[3000]]
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="+" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mo">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[300]]
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="+" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mo">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[60]]
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="+" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mo">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[5]].
+     <br/>
+     Mẫu:
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="153 792 = 100 000 + 50 000 + 3000 + 700 + 90 + 2" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            153
+           </span>
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            792
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space3">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+            =
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space3">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            100
+           </span>
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            000
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            50
+           </span>
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            000
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            3000
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            700
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            90
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            2
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     .
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       Ta cần tách số cho trước thành tổng số trăm nghìn + số chục nghìn + số nghìn + số trăm + số chục + số đơn vị.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="243\ 365 = 200\ 000 + 40\ 000 + 3000 + 300 + 60 + 5" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              243
+             </span>
+            </span>
+            <span class="mjx-mtext">
+             <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.291em; padding-bottom: 0.372em;">
+             </span>
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              365
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              200
+             </span>
+            </span>
+            <span class="mjx-mtext">
+             <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.291em; padding-bottom: 0.372em;">
+             </span>
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              000
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+              +
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              40
+             </span>
+            </span>
+            <span class="mjx-mtext">
+             <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.291em; padding-bottom: 0.372em;">
+             </span>
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              000
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+              +
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              3000
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+              +
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              300
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+              +
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              60
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+              +
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              5
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    5
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án đúng để điền vào ô trống.
+     <br/>
+     a)
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="100\;000 + 20\;000 + 4000 + 900 + 80 + 7 =" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            100
+           </span>
+          </span>
+          <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            000
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            20
+           </span>
+          </span>
+          <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            000
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            4000
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            900
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            80
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+            +
+           </span>
+          </span>
+          <span class="mjx-mn MJXc-space2">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            7
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space3">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+            =
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[124987]]
+     <br/>
+     b) Số tròn nghìn là số có ba chữ số tận cùng bằng [[0]]
+     <br/>
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lý thuyết:
+       </b>
+       <br/>
+       +) Cách tách một số cho trước thành tổng của các số tròn trăm nghìn + tròn chục nghìn + tròn nghìn + tròn trăm + tròn chục + đơn vị.
+       <br/>
+       +) Định nghĩa số tròn nghìn là số có ba chữ số tận cùng là
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+       </b>
+       <br/>
+       a)
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="124\;987" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              124
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              987
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       b)
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="0" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              0
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    6
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Hãy chọn đáp án đúng.
+     <br/>
+     Số
+     <span class="math-tex" style="font-size: 18px;;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="107\ 872" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            107
+           </span>
+          </span>
+          <span class="mjx-mtext">
+           <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.291em; padding-bottom: 0.372em;">
+           </span>
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            872
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     đọc là
+    </p>
+   </div>
+   A. Một trăm bảy nghìn tám trăm bảy mươi hai.
+   <div>
+    <u>
+     B.
+    </u>
+    Một trăm linh bảy nghìn tám trăm bảy mươi hai.
+   </div>
+   C. Một trăm linh bảy nghìn tám trăm bảy hai.
+   D. Mười nghìn bảy tám trăm bảy mươi hai.
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+       </b>
+       <br/>
+       Số
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="107\ 872" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              107
+             </span>
+            </span>
+            <span class="mjx-mtext">
+             <span class="mjx-char MJXc-TeX-main-R" style="margin-top: -0.291em; padding-bottom: 0.372em;">
+             </span>
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              872
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       đọc là một trăm linh bảy nghìn tám trăm bảy mươi hai.
+       <br/>
+       <strong>
+        Đáp án:
+       </strong>
+       Một trăm linh bảy nghìn tám trăm bảy mươi hai.
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    7
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn
+     <b>
+      tất cả
+     </b>
+     đáp án đúng.
+     <br/>
+     Cho số
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="125\,\,624" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            125
+           </span>
+          </span>
+          <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+          </span>
+          <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            624
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     .
+     <br/>
+     Khẳng định nào dưới đây là đúng?
+    </p>
+   </div>
+   A. Số trên có chữ số hàng trăm nghìn lớn hơn chữ số hàng đơn vị.
+   <div>
+    <u>
+     B.
+    </u>
+    Số trên có chữ số hàng trăm nghìn bé hơn chữ số hàng đơn vị.
+   </div>
+   <div>
+    <u>
+     C.
+    </u>
+    Số trên có chữ số hàng chục nghìn bằng chữ số hàng chục.
+   </div>
+   D. Số trên có chữ số hàng chục nghìn lớn hơn chữ số hàng chục.
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Cách đọc và viết số có sáu chữ số:
+       <br/>
+       - Để viết và đọc được số có sáu chữ số, ta cần đếm được giá trị của từng hàng (lần lượt từ hàng trăm nghìn đến hàng đơn vị).
+       <br/>
+       - Để đọc các số ta đọc từ trái sang phải.
+       <br/>
+       - Các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Số
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="125\,\,624" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              125
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              624
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       có chữ số hàng trăm nghìn là
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       , chữ số hàng chục nghìn là
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="2" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       , chữ số hàng nghìn là
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="5" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              5
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       , chữ số hàng trăm là
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="6" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              6
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       , chữ số hàng chục là
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="2" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       , chữ số hàng đơn vị là
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="4" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       Vì
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="2 = 2" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nên chữ số hàng chục bằng chữ số hàng chục nghìn.
+       <br/>
+       Vì
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1 &lt; 4" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.225em; padding-bottom: 0.372em;">
+              &lt;
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nên chữ số hàng trăm nghìn bé hơn chữ số hàng đơn vị.
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <br/>
+       Số trên có chữ số hàng chục nghìn bằng chữ số hàng chục.
+       <br/>
+       Số trên có chữ số hàng trăm nghìn bé hơn chữ số hàng đơn vị.
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    8
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án đúng.
+     <br/>
+     Cho số:
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="122\,\,563" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            122
+           </span>
+          </span>
+          <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+          </span>
+          <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            563
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     . Chữ số
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="6" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            6
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     thuộc hàng nào?
+     <br/>
+    </p>
+   </div>
+   <div>
+    <u>
+     A.
+    </u>
+    Hàng chục
+   </div>
+   B. Hàng chục nghìn
+   C. Hàng trăm
+   D. Hàng trăm nghìn
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Cách đọc và viết số có sáu chữ số:
+       <br/>
+       - Để viết và đọc được số có sáu chữ số, ta cần đếm được giá trị của từng hàng (lần lượt từ hàng trăm nghìn đến hàng đơn vị).
+       <br/>
+       - Để đọc các số ta đọc từ trái sang phải.
+       <br/>
+       - Các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Trong số có sáu chữ số, các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       Do đó, chữ số
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="6" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              6
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       của số
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="122\,\,563" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              122
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              563
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       thuộc hàng chục.
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       Hàng chục.
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    9
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn chọn đáp án đúng.
+     <br/>
+     Nhận xét: “Số
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="12\,\,345" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            12
+           </span>
+          </span>
+          <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+          </span>
+          <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            345
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     là số có sáu chữ số” đúng hay sai?
+     <br/>
+    </p>
+   </div>
+   A. Đúng
+   <div>
+    <u>
+     B.
+    </u>
+    Sai
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       - Để viết và đọc được số có sáu chữ số, ta cần đếm được giá trị của từng hàng (lần lượt từ hàng trăm nghìn đến hàng đơn vị).
+       <br/>
+       - Để đọc các số tự nhiên ta đọc từ trái sang phải.
+       <br/>
+       - Các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Số
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="12\,\,345" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              12
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              345
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       gồm năm hàng (tính từ phải sang trái) là: hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn nên số trên không phải là số có sáu chữ số.
+       <br/>
+       Do đó, nhận xét trên sai.
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       Sai.
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    10
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án đúng.
+     <br/>
+     Cho bảng sau:
+     <br/>
+     <img alt="img_question" class="img-responsive" src="https://s3.vio.edu.vn/image_question/9_1_1616249222.png"/>
+     <br/>
+     Số thích hợp điền vào dấu ba chấm là:
+    </p>
+   </div>
+   A. 397182
+   <div>
+    <u>
+     B.
+    </u>
+    281793
+   </div>
+   C. 287193
+   D. 193287
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Cách đọc, viết số có sáu chữ số:
+       <br/>
+       - Để viết và đọc được số có sáu chữ số, ta cần đếm được giá trị của từng hàng (lần lượt từ hàng trăm nghìn đến hàng đơn vị).
+       <br/>
+       - Để đọc các số tự nhiên ta đọc từ trái sang phải.
+       <br/>
+       - Các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Từ bảng trên ta có số cần tìm gồm:
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="2" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       trăm nghìn,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="8" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              8
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục nghìn,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nghìn,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="7" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              7
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       trăm,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="9" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              9
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục và
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="3" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              3
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       đơn vị.
+       <br/>
+       Do đó, số cần tìm là:
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="281\,\,793" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              281
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              793
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="281\,\,793" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              281
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              793
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    11
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy điền số thích hợp vào ô trống.
+     <br/>
+     <span class="math-tex" style="font-size: 18px">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="100\,\,000 = " class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            100
+           </span>
+          </span>
+          <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+          </span>
+          <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            000
+           </span>
+          </span>
+          <span class="mjx-mo MJXc-space3">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+            =
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[10]] chục nghìn.
+     <br/>
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="100\,\,000 = 10" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              100
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              000
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              10
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="100\,\,000 = 10" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              100
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              000
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              10
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục nghìn.
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="10" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              10
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    12
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án đúng.
+     <br/>
+     Cho bảng sau:
+     <br/>
+     <img alt="img_question" class="img-responsive" src="https://s3.vio.edu.vn/image_question/15_1_1616249222.png"/>
+     <br/>
+     Số được thể hiện ở bảng trên đọc là:
+     <br/>
+    </p>
+   </div>
+   A. Hai trăm mười một nghìn hai trăm chín mươi.
+   B. Hai trăm mười một nghìn hai trăm mười chín.
+   <div>
+    <u>
+     C.
+    </u>
+    Hai trăm mười một nghìn hai trăm chín mươi mốt.
+   </div>
+   D. Hai trăm mười một nghìn hai trăm chín một.
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       - Để viết và đọc được số có sáu chữ số, ta cần đếm được giá trị của từng hàng (lần lượt từ hàng trăm nghìn đến hàng đơn vị).
+       <br/>
+       - Để đọc các số tự nhiên ta đọc từ trái sang phải.
+       <br/>
+       - Các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Từ bảng trên ta có số cần tìm là:
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="211\,\,291" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              211
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              291
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       Đọc là: Hai trăm mười một nghìn hai trăm chín mươi mốt.
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       Hai trăm mười một nghìn hai trăm chín mươi mốt.
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    13
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy điền số thích hợp vào ô trống.
+     <br/>
+     Cho bảng sau:
+     <br/>
+     <img alt="img_question" class="img-responsive" src="https://s3.vio.edu.vn/image_question/7_1_1616249222.png"/>
+     <br/>
+     Từ bảng trên ta được số là [[354232]].
+     <br/>
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Số có sáu chữ số.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Ta có bảng:
+       <br/>
+       <img alt="img_question" src="https://s3.vio.edu.vn/image_question/7_2_1616249222.png"/>
+       <br/>
+       Vậy số cần tìm là:
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="354\,232" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              354
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              232
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="354232" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              354232
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    14
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án đúng.
+     <br/>
+     Bạn My biểu diễn số
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="547\,\,892" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            547
+           </span>
+          </span>
+          <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+          </span>
+          <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+          </span>
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            892
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     vào bảng như dưới đây:
+     <br/>
+     <img alt="img_question" class="img-responsive" src="https://s3.vio.edu.vn/image_question/23_1_1616249222.png"/>
+     <br/>
+     Hỏi bạn My làm đúng hay sai?
+    </p>
+   </div>
+   A. Đúng
+   <div>
+    <u>
+     B.
+    </u>
+    Sai
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Cách đọc và viết số có sáu chữ số:
+       <br/>
+       - Để viết và đọc được số có sáu chữ số, ta cần đếm được giá trị của từng hàng (lần lượt từ hàng trăm nghìn đến hàng đơn vị).
+       <br/>
+       - Để đọc các số ta đọc từ trái sang phải.
+       <br/>
+       - Các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Trong số có sáu chữ số, các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       Do đó, số
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="547\,\,892" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              547
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              892
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       gồm
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="5" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              5
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       trăm nghìn,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="4" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục nghìn,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="7" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              7
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nghìn,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="8" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              8
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       trăm,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="9" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              9
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục và
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="2" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       đơn vị.
+       <br/>
+       Vậy bạn My làm sai.
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       Sai.
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    15
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy điền số thích hợp vào ô trống.
+     <br/>
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="10" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            10
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     trăm
+     <span class="math-tex" style="font-size: 18px;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label=" = " class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mo">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+            =
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     [[1]] nghìn.
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="10" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              10
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       trăm
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label=" = 1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mo">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="10" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              10
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       trăm
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label=" = 1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mo">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nghìn.
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    16
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy điền số thích hợp vào ô trống.
+     <br/>
+     Số một trăm hai mươi ba nghìn ba trăm sáu mươi sáu có tổng chữ số hàng trăm nghìn và hàng nghìn bằng [[4]].
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Cách đọc và viết số có sáu chữ số:
+       <br/>
+       - Để viết và đọc được số có sáu chữ số, ta cần đếm được giá trị của từng hàng (lần lượt từ hàng trăm nghìn đến hàng đơn vị).
+       <br/>
+       - Để đọc các số ta đọc từ trái sang phải.
+       <br/>
+       - Các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Số một trăm hai mươi ba nghìn ba trăm sáu mươi sáu gồm:
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       trăm nghìn,
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="2" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục nghìn,
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="3" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              3
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nghìn,
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="3" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              3
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       trăm,
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="6" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              6
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục và
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="6" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              6
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       đơn vị.
+       <br/>
+       Do đó, chữ số hàng trăm nghìn là
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       và hàng nghìn là
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="3" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              3
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       Vậy tổng chữ số hàng trăm nghìn và hàng nghìn là:
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="1 + 3 = 4" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.298em; padding-bottom: 0.446em;">
+              +
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space2">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              3
+             </span>
+            </span>
+            <span class="mjx-mo MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="4" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    17
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy điền số thích hợp vào ô trống.
+     <br/>
+     Số [[235489]] gồm: hai trăm nghìn, ba chục nghìn, năm nghìn, bốn trăm, tám chục, chín đơn vị.
+     <br/>
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Cách đọc, viết số có sáu chữ số:
+       <br/>
+       - Để viết và đọc được số có sáu chữ số, ta cần đếm được giá trị của từng hàng (lần lượt từ hàng trăm nghìn đến hàng đơn vị).
+       <br/>
+       - Để đọc các số tự nhiên ta đọc từ trái sang phải.
+       <br/>
+       - Các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Số gồm hai trăm nghìn, ba chục nghìn, năm nghìn, bốn trăm, tám chục, chín đơn vị là
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="235\,\,489" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              235
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              489
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="235489" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              235489
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    18
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy điền số thích hợp vào ô trống.
+     <br/>
+     Số có sáu chữ số gồm [[6]] hàng.
+     <br/>
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Số có sáu chữ số gồm các hàng: hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Vì số có sáu chữ số gồm các hàng: hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       Nên số có sáu chữ số gồm
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="6" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              6
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       hàng.
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="6" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              6
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    19
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án đúng.
+     <br/>
+     An nói rằng: “
+     <span class="math-tex" style="font-size: 18px;;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="10" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            10
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     nghìn bằng
+     <span class="math-tex" style="font-size: 18px;;">
+      <span class="mjpage">
+       <span class="mjx-chtml">
+        <span aria-label="1" class="mjx-math">
+         <span aria-hidden="true" class="mjx-mrow">
+          <span class="mjx-mn">
+           <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+            1
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+     trăm nghìn”.
+     <br/>
+     Bạn An nói đúng hay sai?
+    </p>
+   </div>
+   A. Đúng
+   <div>
+    <u>
+     B.
+    </u>
+    Sai
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="10" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              10
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nghìn
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label=" = 1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mo">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="10" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              10
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nghìn
+       <span class="math-tex" style="font-size: 18px;;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label=" = 1" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mo">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.077em; padding-bottom: 0.298em;">
+              =
+             </span>
+            </span>
+            <span class="mjx-mn MJXc-space3">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              1
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục nghìn.
+       <br/>
+       Do đó, bạn An nói sai.
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       Sai.
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    20
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn điền số thích hợp vào ô trống.
+     <br/>
+     Số [[242256]] đọc là hai trăm bốn mươi hai nghìn hai trăm năm mươi sáu.
+    </p>
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       Cách đọc và viết số có sáu chữ số:
+       <br/>
+       - Để viết và đọc được số có sáu chữ số, ta cần đếm được giá trị của từng hàng (lần lượt từ hàng trăm nghìn đến hàng đơn vị).
+       <br/>
+       - Để đọc các số ta đọc từ trái sang phải.
+       <br/>
+       - Các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Số được đọc là hai trăm bốn mươi hai nghìn hai trăm năm mươi sáu gồm:
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="2" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       trăm nghìn,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="4" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              4
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục nghìn,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="2" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       nghìn,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="2" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              2
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       trăm,
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="5" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              5
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       chục và
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="6" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              6
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       đơn vị.
+       <br/>
+       Vậy số cần tìm là
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="242\,\,256" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              242
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mspace" style="width: 0.167em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              256
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       <span class="math-tex" style="font-size: 18px;">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="242256" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              242256
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       .
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
+<div>
+ <div class="panel panel-preview-primary panel-preview-question">
+  <div class="panel-heading">
+   Câu
+   <strong>
+    21
+   </strong>
+   : [NB]
+  </div>
+  <div class="panel-body">
+   <div>
+    <p>
+     Bạn hãy chọn đáp án đúng.
+     <br/>
+     Số gồm: một trăm nghìn, ba chục nghìn, hai nghìn, ba trăm, hai chục, không đơn vị được đọc là:
+     <br/>
+    </p>
+   </div>
+   A. Một trăm nghìn ba trăm hai mươi nghìn ba trăm hai mươi.
+   B. Một trăm hai mươi nghìn ba trăm hai mươi.
+   C. Một trăm ba mươi hai nghìn ba trăm hai chục.
+   <div>
+    <u>
+     D.
+    </u>
+    Một trăm ba mươi hai nghìn ba trăm hai mươi.
+   </div>
+   <div>
+    <button class="btn btn-default">
+     Lời giải:
+    </button>
+    <div>
+     <div>
+      <strong>
+       Bước 1:
+      </strong>
+      <span>
+       <p>
+       </p>
+       <b>
+        Lí thuyết:
+       </b>
+       <br/>
+       - Để viết và đọc được số có sáu chữ số, ta cần đếm được giá trị của từng hàng (lần lượt từ hàng trăm nghìn đến hàng đơn vị).
+       <br/>
+       - Để đọc các số tự nhiên ta đọc từ trái sang phải.
+       <br/>
+       - Các chữ số từ phải sang trái lần lượt thuộc hàng đơn vị, hàng chục, hàng trăm, hàng nghìn, hàng chục nghìn, hàng trăm nghìn.
+       <br/>
+       <b>
+       </b>
+       <br/>
+       Số gồm: một trăm nghìn, ba chục nghìn, hai nghìn, ba trăm, hai chục, không đơn vị được viết là:
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="132\;320." class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              132
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              320.
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       <br/>
+       <span class="math-tex" style="font-size: 18px">
+        <span class="mjpage">
+         <span class="mjx-chtml">
+          <span aria-label="132\;320" class="mjx-math">
+           <span aria-hidden="true" class="mjx-mrow">
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              132
+             </span>
+            </span>
+            <span class="mjx-mspace" style="width: 0.278em; height: 0px;">
+            </span>
+            <span class="mjx-mn">
+             <span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.372em; padding-bottom: 0.372em;">
+              320
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+       được đọc là: Một trăm ba mươi hai nghìn ba trăm hai mươi.
+       <br/>
+       <b>
+        Đáp án:
+       </b>
+       Một trăm ba mươi hai nghìn ba trăm hai mươi.
+       <br/>
+       <p>
+       </p>
+      </span>
+     </div>
+    </div>
+   </div>
+   <button class="btn btn-default pull-right">
+   </button>
+  </div>
+ </div>
+</div>
